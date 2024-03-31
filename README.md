@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @alexanderle24
 - 👀 I’m interested in using SQL and Tableau to create visuals
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on creating visuals
 
 
 <!---
